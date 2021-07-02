@@ -1,6 +1,8 @@
-# Jira Slack Notifications
+# Jira Slack Notifications Bot
 
 ## Get a Slack notification when a Jira issue is assigned to you or you team.
+
+![image](images/demo.png "Jira Slack Notifications Bot")
 
 ### Install requirements
 
